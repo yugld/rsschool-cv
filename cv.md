@@ -16,11 +16,15 @@ Hello, my name is Yulya. I`m a Frontend Developer.
 - ◾◾◾◽◽ SCSS
 - ◾◾◽◽◽ TypeScript
 
-## __Education and experience__ ##
+## __Education__ ##
  - __University:__ 2020 Northern (Arctic) Federal University named after M.V. Lomonosov
  - __Courses:__ 2023 YandexPracticum course midle frontend
  - __University:__ 2024 Tavrida National V.I. Vernadsky University
 
+## __Experience__ ##
+ - Messsenger https://meek-taiyaki-afa351.netlify.app/
+ - Caesar-Cipher https://github.com/yugld/Caesar-Cipher
+ - landing_page_cats https://github.com/yugld/landing_page_cats
 
 ## __English__
 __B1-B2__ 
