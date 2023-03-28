@@ -4,7 +4,8 @@
 -  __Email:__ yuliagladysheva@gmail.com
 -  __GitHub:__ https://github.com/yugld
 
-
+## __About me__ ##
+Hello, my name is Yulya. I`m a Frontend Developer.
 
 ## __Skills__ ## 
 - ◾◾◾◽◽ JavaScript  
